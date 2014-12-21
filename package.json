@@ -1,0 +1,32 @@
+{
+  "name": "resty-stone-customtypes",
+  "version": "v0.0.1-alpha",
+  "description": "Keystone Field type handlers for resty-stone.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shlomiassaf/resty-stone-customtypes.git"
+  },
+  "keywords": [
+    "rest",
+    "resty-stone",
+    "keystone",
+    "keystonejs"
+  ],
+  "author": {
+    "name": "Shlomi Assaf"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shlomiassaf/resty-stone-customtypes/issues"
+  },
+  "homepage": "http://shlomiassaf.github.io/resty-stone",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
